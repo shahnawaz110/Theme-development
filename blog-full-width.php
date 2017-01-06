@@ -14,7 +14,7 @@ Template Name: Blog (Full Posts)
 		 		</div>
 		 		    <div class="contentleft">
 		 			<div class="Blog">
-		 				<?php query_posts('posta_per_page=-1');
+		 				<?php query_posts('posts_per_page=-1');
 		 				while(have_posts()) : the_post();?>
 		 				<div class="post <?php if(has_post_thumbnail()){?>
 		 						has-thumbnail <?php } ?>">
