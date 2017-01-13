@@ -20,6 +20,11 @@ My Theme WordPress theme, Copyright (C) 2016.
 
 Unless otherwise specified,
  all the theme files, scripts and images are licensed under GNU General Public License.
+ 
+ ====Demo Links======
+ localhost/tutorial/wordpress/front-page.php
+ localhost/tutorial/wordpress/index.php
+ 
 
 The exceptions to this license are as follows:
 
